@@ -9,3 +9,4 @@ export const stars = (n) => {
   }
   return aa;
 }
+//執行自動test
